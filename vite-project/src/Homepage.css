@@ -1,0 +1,126 @@
+/* Budget Wrapper */
+.budget-wrapper {
+  position: relative;
+  display: inline-block;
+  margin-left: 10px;
+  font-family: inherit;
+}
+
+.budget-btn {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 8px 14px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.budget-btn:hover {
+  border-color: #d8232a;
+  color: #d8232a;
+}
+
+.budget-dropdown {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  width: 360px;
+  background: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  display: none;
+  z-index: 1000;
+  padding: 12px;
+  opacity: 0;
+  transform: translateY(-6px);
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.budget-dropdown.active {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.price-container {
+  display: flex;
+  gap: 18px;
+}
+
+.price-column {
+  flex: 1;
+  min-width: 0;
+}
+
+.price-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #333;
+}
+
+.price-column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.price-column li {
+  padding: 8px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.price-column li:hover {
+  background: #f6f6f6;
+}
+
+.price-column li.active {
+  background: #d8232a;
+  color: #fff;
+}
+
+.budget-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.apply-btn,
+.clear-btn {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.apply-btn {
+  background: #d8232a;
+  color: #fff;
+  border-color: #d8232a;
+}
+
+.clear-btn {
+  background: #fff;
+  color: #333;
+  border-color: #e6e6e6;
+}
+
+/* Responsive: stack columns on small screens */
+@media (max-width: 520px) {
+  .budget-dropdown {
+    width: 92vw;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+  }
+  .price-container {
+    flex-direction: column;
+  }
+}

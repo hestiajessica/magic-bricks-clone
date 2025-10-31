@@ -1,0 +1,809 @@
+{
+  "home":[
+    {
+        "id": 1,
+        "title": "2BHK Flat ",
+        "price": "₹75 Lakhs",
+        "location": " Anna Nagar,Chennai",
+        "area": "1200 sqft",
+        "images": ["/ap1/1.jpg"],
+         "propertytype": "Flat"
+    },
+    {
+        "id": 2,
+        "title": "2BHK Flat ",
+        "price": "₹70 Lakhs",
+        "location": " Adyar, Chennai",
+        "area": "1000 sqft",
+        "images": ["/AP2/1.jpg"],
+         "propertytype": "Flat"
+    },
+    {
+        "id": 3,
+        "title": "3BHK Flat ",
+        "price": "₹95 Lakhs",
+        "location": "Velachery,Chennai",
+        "area": "1350 sqft",
+        "images": ["/Ap3/1.jpg"],
+ "propertytype": "Flat"
+    },
+    {
+        "id": 4,
+        "title": "2BHK Flat Chennai",
+        "price": "₹85 Lakhs",
+        "location": "T. Nagar,Chennai",
+        "area": "1100 sqft",
+        "images": ["/Ap4/1.jpg"],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 5,
+        "title": "3BHK Flat ",
+        "price": "₹95 Lakhs",
+        "location": "Hitech City, Hyderabad",
+        "area": "1450 sqft",
+        "images": ["/Ap5/1.jpg"],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 6,
+        "title": "2BHK Flat ",
+        "price": "₹78 Lakhs",
+        "location": "Kondapur, Hyderabad",
+        "area": "1050 sqft",
+        "images": ["/Ap6/2.jpeg"],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 7,
+        "title": "3BHK Flat ",
+        "price": "₹92 Lakhs",
+        "location": "Gachibowli, Hyderabad",
+        "area": "1450 sqft",
+        "images": ["/Ap7/1.jpg"],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 8,
+        "title": "2BHK Flat ",
+        "price": "₹80 Lakhs",
+        "location": "Perungudi, Chennai",
+        "area": "1120 sqft",
+        "images": ["/Ap8/1.jpeg"],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 9,
+        "title": "3BHK Flat ",
+        "price": "₹88 Lakhs",
+        "location": " Madhapur, Hyderabad",
+        "area": "1280 sqft",
+        "images": ["/Ap9/1.jpeg"],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 10,
+        "title": "2BHK Flat",
+        "price": "₹82 Lakhs",
+        "location": "Nungambakkam,Chennai",
+        "area": "1080 sqft",
+        "images": ["/Ap10/1.jpg"],
+        "propertytype": "Flat"
+
+    },
+   {
+        "id": 11,
+        "title": "3BHK Flat in Tambaram",
+        "price": "₹86 Lakhs",
+        "location": "Tambaram, Chennai",
+        "type": "3BHK",
+        "area": "1250 sqft",
+        "images": [
+        "/Ap11/1.jpg"
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 12,
+        "title": "2BHK Flat in Avadi",
+        "price": "₹72 Lakhs",
+        "location": "Avadi, Chennai",
+        "type": "2BHK",
+        "area": "980 sqft",
+        "images": [ "/Ap12/1.jpg" ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 13,
+        "title": "3BHK Flat in OMR",
+        "price": "₹98 Lakhs",
+        "location": "OMR, Chennai",
+        "type": "3BHK",
+        "area": "1500 sqft",
+        "images": [
+            "/AP13/1.jpg"
+            
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+         "id": 14,
+        "title": "2BHK Flat in Egmore",
+        "price": "₹77 Lakhs",
+        "location": "Egmore, Chennai",
+        "type": "2BHK",
+        "area": "1020 sqft",
+        "images": [
+            "/Ap14/1.jpg"
+            
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+         "id": 15,
+        "title": "3BHK Flat in Velachery East",
+        "price": "₹100 Lakhs",
+        "location": "Velachery East, Chennai",
+        "type": "3BHK",
+        "area": "1550 sqft",
+        "images": [
+            "/Ap15/1.jpg"
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 16,
+        "title": "2BHK Flat in Royapettah",
+        "price": "₹79 Lakhs",
+        "location": "Royapettah, Chennai",
+        "type": "2BHK",
+        "area": "1100 sqft",
+        "images": [
+            "/Ap16/1.jpg"
+            
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 16,
+        "title": "2BHK Flat in Royapettah",
+        "price": "₹79 Lakhs",
+        "location": "Royapettah, Chennai",
+        "type": "2BHK",
+        "area": "1100 sqft",
+        "images": [
+            "/Ap16/1.jpg"
+           
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+                "id": 17,
+        "title": "3BHK Flat in Madipakkam",
+        "price": "₹93 Lakhs",
+        "location": "Madipakkam, Chennai",
+        "type": "3BHK",
+        "area": "1420 sqft",
+        "images": [
+            "/Ap17/1.jpg"
+           
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 18,
+        "title": "2BHK Flat in T. Nagar West",
+        "price": "₹84 Lakhs",
+        "location": "T. Nagar West, Chennai",
+        "type": "2BHK",
+        "area": "1150 sqft",
+        "images": [
+            "/Ap18/1.jpg"
+            
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+         "id": 19,
+        "title": "3BHK Flat in Sholinganallur",
+        "price": "₹97 Lakhs",
+        "location": "Sholinganallur, Chennai",
+        "type": "3BHK",
+        "area": "1480 sqft",
+        "images": [
+            "/Ap19/1.jpeg"
+           
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+          "id": 20,
+        "title": "2BHK Flat in Kodungaiyur",
+        "price": "₹76 Lakhs",
+        "location": "Kodungaiyur, Chennai",
+        "type": "2BHK",
+        "area": "1080 sqft",
+        "images": [
+            "/Ap20/1.jpg"
+            
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 21,
+        "title": "3BHK Flat in Perambur",
+        "price": "₹89 Lakhs",
+        "location": "Perambur, Chennai",
+        "type": "3BHK",
+        "area": "1300 sqft",
+        "images": [
+            "/Ap21/1.jpg"
+        ],
+        "propertytype": "Flat"
+
+    },
+    {
+         "id": 22,
+        "title": "2BHK Flat in Alwarpet",
+        "price": "₹81 Lakhs",
+        "location": "Alwarpet, Chennai",
+        "type": "2BHK",
+        "area": "1125 sqft",
+        "images": ["/Ap22/1.jpg"  ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 23,
+        "title": "3BHK Flat in Manapakkam",
+        "price": "₹94 Lakhs",
+        "location": "Manapakkam, Chennai",
+        "type": "3BHK",
+        "area": "1450 sqft",
+        "images": ["/Ap23/1.jpg" ],
+        "propertytype": "Flat"
+
+    },
+    {
+        "id": 24,
+        "title": "2BHK Flat in Anna Nagar West",
+        "price": "₹83 Lakhs",
+        "location": "Anna Nagar West, Chennai",
+        "type": "2BHK",
+        "area": "1180 sqft",
+        "images": ["/Ap24/1.jpg"],
+        "propertytype": "Flat"
+
+    },
+    {
+         "id": 25,
+        "title": "3BHK Flat in Velachery West",
+        "price": "₹99 Lakhs",
+        "location": "Velachery West, Chennai",
+        "type": "3BHK",
+        "area": "1520 sqft",
+        "images": ["/Ap25/1.jpg"],
+        "propertytype": "Flat"
+
+    }
+],
+  "details":[
+  {
+    "id": 1,
+    "title": "2BHK Flat in Anna Nagar",
+    "price": "₹75 Lakhs",
+    "location": "Anna Nagar, Chennai",
+    "type": "2BHK",
+    "area": "1200 sqft",
+    "images": ["/ap1/1.jpg", "/ap1/2.jpg", "/ap1/3.jpg", "/ap1/4.jpg", "/ap1/5.jpg"],
+    "Booking": "₹50,000",
+    "address": "Block D, 4th Avenue, Anna Nagar West, Chennai - 600040",
+    "landmark": "Thirumangalam Metro Station, VR Chennai Mall",
+    "furnish": "Unfurnished",
+    "floor": "Vitrified",
+    "ownership": "Freehold",
+    "Overlooking": "Park, Main Road",
+    "Authority Approval": "CMDA",
+    "Description": "Spacious flat with cross ventilation, covered parking, and lift access. Walkable distance to metro, schools, and hospitals.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 2,
+    "title": "2BHK Flat in Adyar",
+    "price": "₹70 Lakhs",
+    "location": "Adyar, Chennai",
+    "type": "2BHK",
+    "area": "1000 sqft",
+    "images": ["/AP2/1.jpg", "/AP2/2.jpg", "/AP2/3.jpg", "/AP2/4.jpg", "/AP2/5.jpg", "/AP2/6.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "Gandhi Nagar, 2nd Cross Street, Adyar, Chennai - 600020",
+    "landmark": "IIT Madras, Besant Nagar Beach",
+    "furnish": "Semi-Furnished",
+    "floor": "Granite",
+    "ownership": "Freehold",
+    "Overlooking": "Lake, Garden",
+    "Authority Approval": "CMDA",
+    "Description": "Modern flat with modular kitchen, wardrobes, and balcony. Well-connected to OMR IT corridor and beaches.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 3,
+    "title": "3BHK Flat in Velachery",
+    "price": "₹95 Lakhs",
+    "location": "Velachery, Chennai",
+    "type": "3BHK",
+    "area": "1350 sqft",
+    "images": ["/Ap3/1.jpg", "/Ap3/2.jpg", "/Ap3/3.jpg", "/Ap3/4.jpg", "/Ap3/5.jpg", "/Ap3/6.jpeg"],
+    "Booking": "₹1 lakh",
+    "address": "100 Feet Road, Velachery, Chennai - 600042",
+    "landmark": "Grand Mall, Velachery Railway Station",
+    "furnish": "Fully Furnished",
+    "floor": "Marble",
+    "ownership": "Freehold",
+    "Overlooking": "City View, Clubhouse",
+    "Authority Approval": "CMDA",
+    "Description": "Luxury flat with premium interiors, gym, swimming pool, and clubhouse. Ideal for IT professionals with metro access.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 4,
+    "title": "2BHK Flat in T. Nagar",
+    "price": "₹85 Lakhs",
+    "location": "T. Nagar, Chennai",
+    "type": "2BHK",
+    "area": "1100 sqft",
+    "images": ["/Ap4/1.jpg", "/Ap4/2.jpg", "/Ap4/3.jpg", "/Ap4/4.jpg", "/Ap4/5.jpg", "/Ap4/6.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "North Usman Road, T. Nagar, Chennai - 600017",
+    "landmark": "Panagal Park, Pondy Bazaar",
+    "furnish": "Semi-Furnished",
+    "floor": "Wooden",
+    "ownership": "Freehold",
+    "Overlooking": "Market View, Roadside",
+    "Authority Approval": "CMDA",
+    "Description": "Flat located in shopping hub with easy metro access. Features include lift, parking, and security.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 5,
+    "title": "3BHK Flat in Porur",
+    "price": "₹90 Lakhs",
+    "location": "Porur, Chennai",
+    "type": "3BHK",
+    "area": "1400 sqft",
+    "images": ["/Ap5/1.jpg", "/Ap5/2.jpg", "/Ap5/3.jpg", "/Ap5/4.jpg", "/Ap5/5.jpg", "/Ap5/6.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "Arcot Road, Porur, Chennai - 600116",
+    "landmark": "DMI College, Porur Lake",
+    "furnish": "Unfurnished",
+    "floor": "Vitrified",
+    "ownership": "Freehold",
+    "Overlooking": "Lake, Highway",
+    "Authority Approval": "CMDA",
+    "Description": "Spacious 3BHK with balcony views of Porur Lake. Amenities include gym, lift, and children’s play area.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 6,
+    "title": "2BHK Flat in Kodambakkam",
+    "price": "₹78 Lakhs",
+    "location": "Kodambakkam, Chennai",
+    "type": "2BHK",
+    "area": "1050 sqft",
+    "images": ["/Ap6/1.jpeg", "/Ap6/2.jpeg", "/Ap6/3.jpeg", "/Ap6/4.jpeg", "/Ap6/5.jpeg", "/Ap6/6.jpeg"],
+    "Booking": "₹1 lakh",
+    "address": "Arcot Road, Kodambakkam, Chennai - 600024",
+    "landmark": "AVM Studios, Meenakshi College",
+    "furnish": "Semi-Furnished",
+    "floor": "Granite",
+    "ownership": "Freehold",
+    "Overlooking": "City Skyline",
+    "Authority Approval": "CMDA",
+    "Description": "Flat in film hub locality. Well-ventilated, power backup, and CCTV secured community.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 7,
+    "title": "3BHK Flat in Medavakkam",
+    "price": "₹92 Lakhs",
+    "location": "Medavakkam, Chennai",
+    "type": "3BHK",
+    "area": "1450 sqft",
+    "images": ["/Ap7/1.jpg", "/Ap7/2.jpg", "/Ap7/3.jpg", "/Ap7/4.jpg", "/Ap7/5.jpg", "/Ap7/6.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "Tambaram Main Road, Medavakkam, Chennai - 600100",
+    "landmark": "Global Hospital, VGP Golden Beach",
+    "furnish": "Unfurnished",
+    "floor": "Marble",
+    "ownership": "Freehold",
+    "Overlooking": "Pool, Park",
+    "Authority Approval": "CMDA",
+    "Description": "Premium apartment with landscaped gardens, clubhouse, and kids’ play area. Located near IT corridor.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 8,
+    "title": "2BHK Flat in Perungudi",
+    "price": "₹80 Lakhs",
+    "location": "Perungudi, Chennai",
+    "type": "2BHK",
+    "area": "1120 sqft",
+    "images": ["/Ap8/1.jpeg", "/Ap8/2.jpeg", "/Ap8/3.jpeg", "/Ap8/4.jpeg", "/Ap8/5.jpg", "/Ap8/6.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "OMR Service Road, Perungudi, Chennai - 600096",
+    "landmark": "RMZ Millenia, Lifeline Hospital",
+    "furnish": "Semi-Furnished",
+    "floor": "Vitrified",
+    "ownership": "Freehold",
+    "Overlooking": "Garden, IT Park",
+    "Authority Approval": "CMDA",
+    "Description": "Flat located near OMR IT hubs. Features modular kitchen, lift, and car parking.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 9,
+    "title": "3BHK Flat in Pallikaranai",
+    "price": "₹88 Lakhs",
+    "location": "Pallikaranai, Chennai",
+    "type": "3BHK",
+    "area": "1280 sqft",
+    "images": ["/Ap9/1.jpeg", "/Ap9/2.jpg", "/Ap9/3.jpg", "/Ap9/4.jpg", "/Ap9/5.jpg", "/Ap9/6.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "Velachery Main Road, Pallikaranai, Chennai - 600100",
+    "landmark": "Balaji Dental College, Pallikaranai Marsh",
+    "furnish": "Unfurnished",
+    "floor": "Granite",
+    "ownership": "Freehold",
+    "Overlooking": "Lake, Park",
+    "Authority Approval": "CMDA",
+    "Description": "Well-designed flat with balconies, water harvesting, and community hall. Good connectivity to OMR.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 10,
+    "title": "2BHK Flat in Mylapore",
+    "price": "₹82 Lakhs",
+    "location": "Mylapore, Chennai",
+    "type": "2BHK",
+    "area": "1080 sqft",
+    "images": ["/Ap10/1.jpg", "/Ap10/2.jpg", "/Ap10/3.jpg", "/Ap10/4.jpg", "/Ap10/5.jpg"],
+    "Booking": "₹75,000",
+    "address": "RK Mutt Road, Mylapore, Chennai - 600004",
+    "landmark": "Kapaleeshwarar Temple, Luz Corner",
+    "furnish": "Semi-Furnished",
+    "floor": "Wooden",
+    "ownership": "Freehold",
+    "Overlooking": "Temple View, Street Market",
+    "Authority Approval": "CMDA",
+    "Description": "Traditional yet modern apartment located in cultural hub. Walkable to schools, markets, and temples.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 11,
+    "title": "3BHK Flat in Tambaram",
+    "price": "₹85 Lakhs",
+    "location": "Tambaram, Chennai",
+    "type": "3BHK",
+    "area": "1380 sqft",
+    "images": ["/Ap11/1.jpg", "/Ap11/2.jpg", "/Ap11/3.jpg", "/Ap11/4.jpg", "/Ap11/5.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "Mudichur Road, West Tambaram, Chennai - 600045",
+    "landmark": "Tambaram Railway Station, Madras Christian College",
+    "furnish": "Unfurnished",
+    "floor": "Vitrified",
+    "ownership": "Freehold",
+    "Overlooking": "Highway, Park",
+    "Authority Approval": "CMDA",
+    "Description": "Well-ventilated apartment with 24x7 security, lift, and covered parking. Close to colleges and markets.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 12,
+    "title": "2BHK Flat in Sholinganallur",
+    "price": "₹76 Lakhs",
+    "location": "Sholinganallur, Chennai",
+    "type": "2BHK",
+    "area": "1150 sqft",
+    "images": ["/Ap12/1.jpg", "/Ap12/2.jpeg", "/Ap12/3.jpeg", "/Ap12/4.jpg", "/Ap12/5.jpeg"],
+    "Booking": "₹1 lakh",
+    "address": "OMR Main Road, Sholinganallur, Chennai - 600119",
+    "landmark": "TCS Siruseri, Sholinganallur Signal",
+    "furnish": "Semi-Furnished",
+    "floor": "Granite",
+    "ownership": "Freehold",
+    "Overlooking": "IT Park, Pool",
+    "Authority Approval": "CMDA",
+    "Description": "Modern flat near IT corridor with swimming pool, gym, and landscaped gardens.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 13,
+    "title": "3BHK Flat in Ekkatuthangal",
+    "price": "₹94 Lakhs",
+    "location": "Ekkatuthangal, Chennai",
+    "type": "3BHK",
+    "area": "1420 sqft",
+    "images": ["/AP13/1.jpg", "/AP13/2.jpg", "/AP13/3.jpg", "/AP13/4.jpg", "/AP13/5.jpg"],
+    "Booking": "₹1.25 lakh",
+    "address": "Guindy Industrial Estate Road, Ekkatuthangal, Chennai - 600032",
+    "landmark": "Olympia Tech Park, Guindy Metro",
+    "furnish": "Fully Furnished",
+    "floor": "Marble",
+    "ownership": "Freehold",
+    "Overlooking": "Skyline, Clubhouse",
+    "Authority Approval": "CMDA",
+    "Description": "Premium 3BHK flat with central AC, Italian marble flooring, and access to exclusive clubhouse.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 14,
+    "title": "2BHK Flat in Ambattur",
+    "price": "₹68 Lakhs",
+    "location": "Ambattur, Chennai",
+    "type": "2BHK",
+    "area": "1020 sqft",
+    "images": ["/Ap14/1.jpg", "/Ap14/2.jpg", "/Ap14/3.jpg", "/Ap14/4.jpg", "/Ap14/5.jpg"],
+    "Booking": "₹80,000",
+    "address": "MTH Road, Ambattur, Chennai - 600053",
+    "landmark": "Ambattur Industrial Estate, Rakki Cinemas",
+    "furnish": "Unfurnished",
+    "floor": "Vitrified",
+    "ownership": "Freehold",
+    "Overlooking": "Park, City Road",
+    "Authority Approval": "CMDA",
+    "Description": "Budget-friendly 2BHK with car parking, borewell water, and good rental value.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 15,
+    "title": "3BHK Flat in Saidapet",
+    "price": "₹89 Lakhs",
+    "location": "Saidapet, Chennai",
+    "type": "3BHK",
+    "area": "1300 sqft",
+    "images": ["/Ap15/1.jpg", "/Ap15/2.jpg", "/Ap15/3.jpg", "/Ap15/4.jpg"],
+    "Booking": "₹1 lakh",
+    "address": "Anna Salai, Saidapet, Chennai - 600015",
+    "landmark": "Saidapet Court, Little Mount Metro",
+    "furnish": "Semi-Furnished",
+    "floor": "Wooden",
+    "ownership": "Freehold",
+    "Overlooking": "River, Main Road",
+    "Authority Approval": "CMDA",
+    "Description": "Spacious 3BHK with modern interiors and excellent connectivity to metro and highways.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 16,
+    "title": "2BHK Flat in Koyambedu",
+    "price": "₹77 Lakhs",
+    "location": "Koyambedu, Chennai",
+    "type": "2BHK",
+    "area": "1125 sqft",
+    "images": ["/Ap16/1.jpg", "/Ap16/2.jpg", "/Ap16/3.jpg", "/Ap16/4.jpg"],
+    "Booking": "₹70,000",
+    "address": "Jawaharlal Nehru Road, Koyambedu, Chennai - 600107",
+    "landmark": "Koyambedu Bus Terminus, CMBT Metro",
+    "furnish": "Unfurnished",
+    "floor": "Granite",
+    "ownership": "Freehold",
+    "Overlooking": "Market, Roadside",
+    "Authority Approval": "CMDA",
+    "Description": "Flat near CMBT with good transport access. Includes power backup and CCTV security.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 17,
+    "title": "3BHK Flat in Guindy",
+    "price": "₹96 Lakhs",
+    "location": "Guindy, Chennai",
+    "type": "3BHK",
+    "area": "1450 sqft",
+    "images": ["/Ap17/1.jpg", "/Ap17/2.jpg", "/Ap17/3.jpg", "/Ap17/4.jpg"],
+    "Booking": "₹1.5 lakh",
+    "address": "Race Course Road, Guindy, Chennai - 600032",
+    "landmark": "Guindy National Park, Olympia Tech Park",
+    "furnish": "Fully Furnished",
+    "floor": "Italian Marble",
+    "ownership": "Freehold",
+    "Overlooking": "Park, Skyline",
+    "Authority Approval": "CMDA",
+    "Description": "Luxurious 3BHK flat with green surroundings, swimming pool, and jogging track.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 18,
+    "title": "2BHK Flat in Chromepet",
+    "price": "₹72 Lakhs",
+    "location": "Chromepet, Chennai",
+    "type": "2BHK",
+    "area": "1090 sqft",
+    "images": ["/Ap18/1.jpg", "/Ap18/2.jpg", "/Ap18/3.jpg", "/Ap18/4.jpg"],
+    "Booking": "₹75,000",
+    "address": "GST Road, Chromepet, Chennai - 600044",
+    "landmark": "MIT College, Chromepet Railway Station",
+    "furnish": "Semi-Furnished",
+    "floor": "Vitrified",
+    "ownership": "Freehold",
+    "Overlooking": "Railway Line, Market",
+    "Authority Approval": "CMDA",
+    "Description": "Ideal for families with schools and hospitals nearby. Good connectivity to airport and GST Road.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 19,
+    "title": "3BHK Flat in Avadi",
+    "price": "₹65 Lakhs",
+    "location": "Avadi, Chennai",
+    "type": "3BHK",
+    "area": "1250 sqft",
+    "images": ["/Ap19/1.jpeg", "/Ap19/2.jpg", "/Ap19/3.jpg","/Ap19/4.jpg"],
+    "Booking": "₹60,000",
+    "address": "MTH Road, Avadi, Chennai - 600054",
+    "landmark": "HVF Factory, Avadi Bus Depot",
+    "furnish": "Unfurnished",
+    "floor": "Granite",
+    "ownership": "Freehold",
+    "Overlooking": "Lake, Playground",
+    "Authority Approval": "CMDA",
+    "Description": "Affordable 3BHK with borewell water, lift, and community hall. Good rental returns.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 20,
+    "title": "2BHK Flat in Nungambakkam",
+    "price": "₹90 Lakhs",
+    "location": "Nungambakkam, Chennai",
+    "type": "2BHK",
+    "area": "1180 sqft",
+    "images": ["/Ap20/1.jpg", "/Ap20/2.jpg", "/Ap20/3.jpg", "/Ap20/4.jpg"],
+    "Booking": "₹1.2 lakh",
+    "address": "College Road, Nungambakkam, Chennai - 600034",
+    "landmark": "Apollo Hospital, Loyola College",
+    "furnish": "Fully Furnished",
+    "floor": "Wooden",
+    "ownership": "Freehold",
+    "Overlooking": "Skyline, Roadside",
+    "Authority Approval": "CMDA",
+    "Description": "Flat in prime city location with high-end fittings, modular kitchen, and designer interiors.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 21,
+    "title": "3BHK Flat in Thiruvanmiyur",
+    "price": "₹98 Lakhs",
+    "location": "Thiruvanmiyur, Chennai",
+    "type": "3BHK",
+    "area": "1500 sqft",
+    "images": ["/Ap21/1.jpg", "/Ap21/2.jpg", "/Ap21/3.jpg", "/Ap21/4.jpg"],
+    "Booking": "₹1.5 lakh",
+    "address": "LB Road, Thiruvanmiyur, Chennai - 600041",
+    "landmark": "Marina Mall, Thiruvanmiyur Beach",
+    "furnish": "Semi-Furnished",
+    "floor": "Italian Marble",
+    "ownership": "Freehold",
+    "Overlooking": "Beach, Garden",
+    "Authority Approval": "CMDA",
+    "Description": "Seaside apartment with excellent ventilation, balconies, and modern clubhouse.",
+    "propertytype": "Flat"
+  },
+  {
+    "id": 22,
+    "title": "2BHK Flat in Ashok Nagar",
+    "price": "₹74 Lakhs",
+    "location": "Ashok Nagar, Chennai",
+    "type": "2BHK",
+    "area": "1110 sqft",
+    "images": ["/Ap22/1.jpg", "/Ap22/2.jpg", "/Ap22/3.jpg"],
+    "Booking": "₹90,000",
+    "address": "11th Avenue, Ashok Nagar, Chennai - 600083",
+    "landmark": "Ashok Pillar, Udhayam Theatre",
+    "furnish": "Semi-Furnished",
+    "floor": "Granite",
+    "ownership": "Freehold",
+    "Overlooking": "Road, Market",
+    "Authority Approval": "CMDA",
+    "Description": "Flat in bustling neighborhood. Close to metro station, theaters, and shops.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 23,
+    "title": "3BHK Flat in Pallavaram",
+    "price": "₹87 Lakhs",
+    "location": "Pallavaram, Chennai",
+    "type": "3BHK",
+    "area": "1320 sqft",
+    "images": ["/Ap23/1.jpg", "/Ap23/2.jpg", "/Ap23/3.jpg"],
+    "Booking": "₹95,000",
+    "address": "GST Road, Pallavaram, Chennai - 600043",
+    "landmark": "PVR Grand Galada Mall, Airport",
+    "furnish": "Unfurnished",
+    "floor": "Vitrified",
+    "ownership": "Freehold",
+    "Overlooking": "Airport Runway, Road",
+    "Authority Approval": "CMDA",
+    "Description": "Flat near airport with good rental value. Includes gym, lift, and backup power.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 24,
+    "title": "2BHK Flat in West Mambalam",
+    "price": "₹79 Lakhs",
+    "location": "West Mambalam, Chennai",
+    "type": "2BHK",
+    "area": "1140 sqft",
+    "images": ["/Ap24/1.jpg", "/Ap24/2.jpg", "/Ap24/3.jpg"],
+    "Booking": "₹85,000",
+    "address": "Arya Gowda Road, West Mambalam, Chennai - 600033",
+    "landmark": "Ayodhya Mandapam, Public Library",
+    "furnish": "Semi-Furnished",
+    "floor": "Wooden",
+    "ownership": "Freehold",
+    "Overlooking": "Temple, Park",
+    "Authority Approval": "CMDA",
+    "Description": "Flat in traditional Brahmin hub. Peaceful locality with schools and temples nearby.",
+    "propertytype": "Flat"
+
+  },
+  {
+    "id": 25,
+    "title": "3BHK Flat in Besant Nagar",
+    "price": "₹1.05 Crore",
+    "location": "Besant Nagar, Chennai",
+    "type": "3BHK",
+    "area": "1600 sqft",
+    "images": ["/Ap25/1.jpg", "/Ap25/2.jpg", "/Ap25/3.jpg", "/Ap25/4.jpg"],
+    "Booking": "₹2 lakhs",
+    "address": "Elliot’s Beach Road, Besant Nagar, Chennai - 600090",
+    "landmark": "Elliot’s Beach, Annai Velankanni Church",
+    "furnish": "Fully Furnished",
+    "floor": "Italian Marble",
+    "ownership": "Freehold",
+    "Overlooking": "Beach, Sea View",
+    "Authority Approval": "CMDA",
+    "Description": "Luxury seaside apartment with private balconies, rooftop garden, and panoramic beach view.",
+  "propertytype": "Flat"
+
+  }
+]
+
+}
